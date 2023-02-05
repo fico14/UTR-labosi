@@ -1,3 +1,0 @@
-$ java -jar dist/compiled_project.jar $(cat q1.txt)
-
-That would output the contents of q1.txt as part of the shell command. 
